@@ -9,9 +9,9 @@ Generalised Procrustes Analysis (GPA),
 Principle Components Analysis (PCA),
 Procrustes ANOVA,
 Bootstrapped Linear Discriminant Analysis (LDA), 
-Production of virtual endocasts - to calculate Endocranial Volume (ECV) (via __Endomaker_),
+Production of virtual endocasts - to calculate Endocranial Volume (ECV) (via __Endomaker_), (Profico, _et al.,_2020)
 Allometry analysis - PC1-PC2 vs ECV/CS,
-Thin Plate Spline (TPS) warped deformaiton models,
+Thin Plate Spline (TPS) warped deformation models,
 Wireframes of positive and negative PCs superimposed by Male and Female landmark configurations,
 Specific landmark configurations: 
 FM area, length, and breadth and their allometric scaling relationships with cadaver stature, cadaver weight, and ECV. 
