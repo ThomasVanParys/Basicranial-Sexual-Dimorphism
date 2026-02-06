@@ -8,8 +8,8 @@ It will allow the user to do the following:
 Generalised Procrustes Analysis (GPA),
 Principle Components Analysis (PCA),
 Procrustes ANOVA,
-Bootstrapped Linear Discriminant Analysis (LDA), 
-Production of virtual endocasts - to calculate Endocranial Volume (ECV) (via __Endomaker_), (Profico, _et al.,_2020)
+Bootstrapped Linear Discriminant Analysis (LDA), to estimate sex classification accuracy
+Production of virtual endocasts - to calculate Endocranial Volume (ECV) (via Endomaker), (Profico et al., 2020)
 Allometry analysis - PC1-PC2 vs ECV/CS,
 Thin Plate Spline (TPS) warped deformation models,
 Wireframes of positive and negative PCs superimposed by Male and Female landmark configurations,
